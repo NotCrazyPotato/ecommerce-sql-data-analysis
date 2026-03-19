@@ -40,3 +40,6 @@ An online retailer needs actionable insights across revenue, customer behavior, 
 - `schema.sql` — schema definitions, constraints, indexes, and sample data
 - `queries.sql` — 18 commented SQL queries answering business questions
 - `README.md` — project overview and execution guidance
+
+## License
+MIT License. See `LICENSE`.
