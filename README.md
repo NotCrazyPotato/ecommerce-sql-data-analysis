@@ -42,4 +42,4 @@ An online retailer needs actionable insights across revenue, customer behavior, 
 - `README.md` — project overview and execution guidance
 
 ## License
-MIT License. See `LICENSE`.
+This project is licensed under the MIT License.
